@@ -1,7 +1,7 @@
 ---
 title: "Managing Jupyter Notebooks on Cloud"
 date: 2015-01-10
-draft: true
+draft: false
 ---
 
 
@@ -22,12 +22,12 @@ To manage the Notebook portfolio, need to login to https://azure.notebooks.com. 
 
 To manage the notebooks first, a Library is needed which is kind of a folder to hold all the notebooks. Click the +New Library link to create the same and give a unique name.
 
-![](/jupyter_on_cloud_img1.png)
+![](/img/jupyter_on_cloud/img1.png)
 
 
 The other way a New Library can be created by ***importing from GitHub***. The iPythonNotebooks can be imported from GitHub.
 
-![](/jupyter_on_cloud_img2.png)
+![](/img/jupyter_on_cloud/img2.png)
 
 ## Create the Notebook
 
@@ -35,17 +35,17 @@ After Library creation the next step is to create and execute the Notebook.
 
 Click on + New link to add files to Library. Give a name, and select the File type is Python 3.6 Notebook. This is important as the notebook environment will be set by the file type. Note that Azure Notebook supports R & F# though, but here we will go for Python:). The Notebook allows to import from locally saved notebooks (.ipynb files) or imported from GitHub directly from the 'From Computer' or 'From URL' tab. If your notebook exists in GitHub then Notebook can directly import the same.
 
-![](/jupyter_on_cloud_img3.png)
+![](/img/jupyter_on_cloud/img3.png)
 
 ## Executing the Notebook in Python
 
 As the Notebook has been created, now it's time to execute the same. To execute, navigate to your Library which you have just created and click on the newly created notebook.
 
-![](/jupyter_on_cloud_img4.png)
+![](/img/jupyter_on_cloud/img4.png)
 
 The notebook starts the Python instance and opens the notebook. Now the notebook is up and running:) The environment comes with all the necessary Data Science packages such as Pandas, Numpy, Matplotlib, Seaborn for charts etc.. so, the notebook can up and running in just a few minutes.
 
-![](/jupyter_on_cloud_img5.png)
+![](/img/jupyter_on_cloud/img5.png)
 
 ## Upload and Download Data
 
@@ -53,7 +53,7 @@ None of [Data Science](https://en.wikipedia.org/wiki/Data_science) experiment or
 
 Data files (csv, json etc..) can be uploaded from Data > Upload. The files goes to local home directory.
 
-![](/jupyter_on_cloud_img6.png)
+![](/img/jupyter_on_cloud/img6.png)
 
 The uploaded file can be downloaded from Data > Download location.
 
