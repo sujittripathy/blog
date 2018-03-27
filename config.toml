@@ -25,10 +25,6 @@ fa_icon = "fa-github-square"
 url = "https://twitter.com/sujittri"
 fa_icon = "fa-twitter-square"
 
-[[params.navmenu]]
-name = "About"
-url = "/main/about-me/"
-
 #[[params.social]]
 #url = "/index.xml"
 #fa_icon = "fa-rss"
