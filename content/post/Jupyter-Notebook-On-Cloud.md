@@ -1,7 +1,6 @@
 ---
 title: "Managing Jupyter Notebooks on Cloud"
-date: 2015-01-10
-draft: false
+date: 2017-11-24
 ---
 
 

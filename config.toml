@@ -1,12 +1,11 @@
 baseurl = "https://sujittripathy.github.io"
 languageCode = "en"
-title = "Sujit Tripathy"
+title = "SUJIT TRIPATHY"
 theme = "hemingway"
-#copyright = "&copy; <a href=\"https://github.com/tanksuzuki\">Asuka Suzuki</a> 2016"
+copyright = "Powered by <a href=\"https://gohugo.io/\">Hugo&copy</a> 2018"
 #disqusShortname = "sujit_tripathy"
 googleAnalytics = ""
 paginate = 5	
-publishDir = "docs"
 
 [params]
 
@@ -15,12 +14,20 @@ style = "github"
 languages = ["go", "dockerfile"]
 
 [[params.social]]
+url = "https://www.linkedin.com/in/sujittripathy"
+fa_icon = "fa-linkedin"
+
+[[params.social]]
 url = "https://github.com/sujittripathy"
-fa_icon = "fa-github"
+fa_icon = "fa-github-square"
 
 [[params.social]]
 url = "https://twitter.com/sujittri"
-fa_icon = "fa-twitter"
+fa_icon = "fa-twitter-square"
+
+[[params.navmenu]]
+name = "About"
+url = "/main/about-me/"
 
 #[[params.social]]
 #url = "/index.xml"
