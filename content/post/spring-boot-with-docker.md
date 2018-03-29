@@ -1,5 +1,5 @@
 ---
-title: Spring Boot in Docker Container
+title: Hosting Spring Boot Application with Docker Container
 date: 2012-03-25
 draft: true
 
