@@ -2,12 +2,13 @@
 categories: main_menu
 date_print: "no"
 ---
-
-Sujit is an experienced software development professional played multiple roles in application and product development. Sujit has more than 12 years of experience in coding, designing and architecting solutions, leading and mentoring development teams across geographies. Sujit architected, design and developed  reliable backend systems by using Core Java, Spring framework, REST API and other open source software technologies ecosystem in Service Oriented and Micro Services Architecture.
-
-Sujit is a continuous learner and having the passion (also curious) for learning latest technologies and work on the personal projects to apply his learning. 
-
-# Skills:<br/>
+Sujit is an experienced software development professional played multiple roles in 
+application and product development. Sujit has more than 12 years of experience in 
+coding, designing and architecting solutions, leading and mentoring development teams 
+across geographies. Sujit architected, design and developed  reliable backend systems 
+by using Core Java, Spring framework, REST API and other open source software technologies ecosystem in Service Oriented and Micro Services Architecture.<br/>
+Sujit is a continuous learner and having the passion (also curious) for learning latest technologies, and implement the same on his personal projects.<br/>
+# Specialities
 •**Java SE 8**<br/>
 •Java Unit testing frameworks such as **JUnit**, **Mockito**, **Spring Boot Test** frameworks<br/>
 •Spring Framework (Core, MVC, Spring Data and others)<br/>
@@ -23,4 +24,4 @@ Sujit is a continuous learner and having the passion (also curious) for learning
 •Big Data and Data Science fundamentals and concepts<br/>
 •Mentoring<br/>
 
-Click <a href="/files/resume.pdf" target = "_blank">here</a> to view the resume.
+Click **<a class="button is-link" href="/files/resume.pdf" target = "_blank">here</a>** to view the resume.
