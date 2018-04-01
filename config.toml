@@ -7,6 +7,10 @@ copyright = "Powered by <a href=\"https://gohugo.io/\">Hugo&copy</a> 2018"
 googleAnalytics = ""
 paginate = 5	
 
+[taxonomies]
+tag = "tags"
+category = "categories"
+
 [params]
 
 [params.highlight]

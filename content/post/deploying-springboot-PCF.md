@@ -2,6 +2,8 @@
 title: Deploying Spring Boot Application to PCF (Pivotal Cloud Foundry)
 date: 2018-03-28
 draft: false
+tags: ["Cloud-Native","Cloud Foundry", "Spring Boot"]
+categories: [ "Cloud-Native"]
 
 ---
 PaaS (Platform as a Service) is changing the way of how we build production ready software in a much faster and simpler way. Pivotal Cloud Foundry (PCF) is a major commercial version of open source Cloud Foundry. As part of this post, I have take a sample spring boot application and deploying the same to PCF via CLI. The demo application has two REST api end point `/addTask` and `/fetchTasks` for adding a new task to ToDo and fetch all the ToDo tasks. Application is deployed as a self contained fat jar with embedded tomcat. 

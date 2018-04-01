@@ -1,6 +1,8 @@
 ---
 title: "Managing Jupyter Notebooks on Cloud"
 date: 2017-11-24
+tags: ["Data Science","Jupyter Notebook"]
+categories: [ "Data Science"]
 ---
 
 
